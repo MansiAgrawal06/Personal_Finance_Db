@@ -76,6 +76,3 @@ A function to calculate user balance (income - expenses).
 ## Tools Used
 - MySQL Workbench
 - GitHub
-
-## Author
-Mansi Agrawal
